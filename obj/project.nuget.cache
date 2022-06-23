@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tr1aDzcJX9tZk9MYXOEKjkzlp3tJU7Vk/5O0R0BIiDvKumThAqApKOvMM2QTPb0+MaXXwYh1+7fijimFhFtvw==",
+  "dgSpecHash": "EuhOxdJ8NqnUdaKgMBi1sl9+y64UspHjhHvb0HbeIsXVNZp/5xy8yMn2VpobKgFHtKOr1jT4sT9svryOSkbMlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hiago\\OneDrive\\Desktop\\DS\\RpgApi\\RpgApi.csproj",
+  "projectFilePath": "D:\\Etec\\RpgApi\\RpgApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hiago\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hiago\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.15\\microsoft.aspnetcore.authentication.jwtbearer.5.0.15.nupkg.sha512",

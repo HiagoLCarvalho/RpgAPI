@@ -5666,11 +5666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hiago\\OneDrive\\Desktop\\DS\\RpgApi\\RpgApi.csproj",
+      "projectUniqueName": "D:\\Etec\\RpgApi\\RpgApi.csproj",
       "projectName": "RpgApi",
-      "projectPath": "C:\\Users\\Hiago\\OneDrive\\Desktop\\DS\\RpgApi\\RpgApi.csproj",
+      "projectPath": "D:\\Etec\\RpgApi\\RpgApi.csproj",
       "packagesPath": "C:\\Users\\Hiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hiago\\OneDrive\\Desktop\\DS\\RpgApi\\obj\\",
+      "outputPath": "D:\\Etec\\RpgApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
